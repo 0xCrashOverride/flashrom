@@ -1,0 +1,8 @@
+
+# /
+/flashrom
+/.features
+/.dependencies
+/.libdeps
+*.d
+*.o
